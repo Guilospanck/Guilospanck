@@ -1,4 +1,4 @@
-### Hi, I'm Guilherme R.P 👋
+### Hi, I'm Guilherme Rodrigues 👋
 
 - :bulb: Mechatronics Engineer by [@CEFET](https://www.divinopolis.cefetmg.br/)
 - 🤓 Full Time Software Engineer at [@Hedro](https://hedro.com.br) <br>
