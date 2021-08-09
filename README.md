@@ -57,7 +57,7 @@ Here are some of the usual things I do, play and/or work with. I'm a <b>*fast le
 - NPM ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 - Yarn ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
-#### Messaging services
+#### Messenger services
 - RabbitMQ ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 - MQTT
  
