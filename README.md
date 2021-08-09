@@ -3,6 +3,7 @@
 - :bulb: Mechatronics Engineer by [@CEFET](https://www.divinopolis.cefetmg.br/)
 - 🤓 Contract Software Engineer at [@Hedro](https://hedro.com.br) <br>
 - :brazil: Living in Divinopolis, Minas Gerais, Brazil <br>
+- 🗣️ Native <b>Portuguese</b> speaker. Professional working proficiency in <b>English</b>. Learning <b>French</b>.
 
 Here are some of the usual things I do, play and/or work with. I'm a <b>*fast learner*</b>, so I'm able to understand almost everything with proper time and study.
 > Don't ask me if I'm capable, just give me the mission.
