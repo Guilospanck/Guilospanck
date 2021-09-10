@@ -62,7 +62,7 @@ MQTT
 ---
 
  <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=guilospanck&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="guilospanck"/> 
+ <img src="https://github-readme-stats.vercel.app/api?username=guilospanck&count_private=true&theme=radical&show_icons=true" alt="guilospanck"/> 
  </p>
  
  <p align="center">
