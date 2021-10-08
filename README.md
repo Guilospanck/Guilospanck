@@ -72,6 +72,6 @@ MQTT
 ### Find me elsewhere 🌎
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/guilhermerpereira/) <br>
-- [Europass](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/f537dc3e-2ec0-4e67-be7e-a9d049a7d2d6?view=html)
+- [Europass](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/f381bd51-7312-4abc-82ef-855c047bf388?view=html)
 
 
