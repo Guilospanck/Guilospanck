@@ -91,7 +91,7 @@ Also: RabbitMQ, MQTT, DynamoDB
  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25" />
 </a>
 <br>
-<a href="https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/f381bd51-7312-4abc-82ef-855c047bf388?view=html">
+<a href="https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/0a04cf0c-dfca-42bc-8c82-ade947f96e35?view=html">
  <img src="https://iconape.com/wp-content/files/xj/257483/svg/257483.svg" width="40" />
 </a>
 
