@@ -1,7 +1,7 @@
 ### Knock, knock! I'm Guilherme Rodrigues :desktop_computer:	
 
-- :bulb: Mechatronics Engineer by [@CEFET](https://www.divinopolis.cefetmg.br/)
-- 🤓 Contract Software Engineer @ [@Hedro](https://hedro.com.br) <br>
+- ⚙️ Mechatronics Engineer by [@CEFET](https://www.divinopolis.cefetmg.br/)
+- 💻 Contract Software Engineer @ [@Hedro](https://hedro.com.br) <br>
 - :brazil: Living in Minas Gerais, Brazil <br>
 - 🗣️ Native <b>Portuguese</b> speaker. Professional working proficiency in <b>English</b>. Learning <b>French</b>.
 
