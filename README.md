@@ -12,7 +12,7 @@ Here are some of the usual things I do, play and/or work with. I'm a <b>*fast le
 ---
 
 ## Some of the technologies I work
-
+<div>
  <a href="https://git-scm.com/" rel="nofollow">
     <img align="center" alt="git" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="max-width: 100%;">
   </a>
@@ -70,9 +70,14 @@ Here are some of the usual things I do, play and/or work with. I'm a <b>*fast le
   <a href="https://www.linux.org/" rel="nofollow">
     <img align="center" alt="nodejs" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="max-width: 100%;">
   </a>
-  
+</div>
+
+
+<div>
+ <span>Also: RabbitMQ, MQTT and DynamoDB. </span>
+ </div>
+
   ----
-Also: RabbitMQ, MQTT, DynamoDB
 
  <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=guilospanck&count_private=true&theme=midnight-purple&show_icons=true" alt="guilospanck"/> 
