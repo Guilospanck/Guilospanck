@@ -1,4 +1,4 @@
-### Knock, knock! I'm Guilherme Rodrigues :desktop_computer:	
+### Hi. I'm Guilherme Rodrigues	
 
 - ⚙️ Mechatronics Engineer by [@CEFET](https://www.divinopolis.cefetmg.br/)
 - 💻 Contract Full Stack Software Engineer at [@Hedro](https://hedro.com.br) <br>
