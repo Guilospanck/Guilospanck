@@ -90,15 +90,3 @@ Here are some of the usual things I do, play and/or work with. I'm a <b>*fast le
   <p align="center">
  <img src="http://github-readme-streak-stats.herokuapp.com?user=Guilospanck&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
  </p>
- 
-
-
- 
-### Connect with me <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="20">
-<p align="center">
- <a href="https://www.linkedin.com/in/guilhermerpereira/">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25" />
- </a>
-</p>
-
-
