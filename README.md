@@ -28,9 +28,6 @@ Here are some of the usual things I do, play and/or work with. I'm a <b>*fast le
  <a href="https://www.rust-lang.org/" rel="nofollow">
     <img align="center" alt="rust" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="max-width: 100%;" />
   </a>
- <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" rel="nofollow">
-    <img align="center" alt="csharp" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg" style="max-width: 100%;">
-  </a>
  <a href="https://html.spec.whatwg.org/multipage/" rel="nofollow">
     <img align="center" alt="html5" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" style="max-width: 100%;">
   </a>
@@ -45,6 +42,9 @@ Here are some of the usual things I do, play and/or work with. I'm a <b>*fast le
   </a>
   <a href="https://www.docker.com/" rel="nofollow">
     <img align="center" alt="docker" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" style="max-width: 100%;">
+  </a>
+  <a href="https://kubernetes.io/" rel="nofollow">
+    <img align="center" alt="kubernetes" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" style="max-width: 100%;">
   </a>
   <a href="https://www.mysql.com/" rel="nofollow">
     <img align="center" alt="mysql" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="max-width: 100%;">
