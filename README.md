@@ -1,7 +1,6 @@
 ### Hi. I'm Guilherme Rodrigues	
 
 - ⚙️ Mechatronics Engineer by [@CEFET](https://www.divinopolis.cefetmg.br/)
-- 💻 Contract Full Stack Software Engineer at [@Hedro](https://hedro.com.br) <br>
 - :brazil: Living in Minas Gerais, Brazil <br>
 - 🗣️ Native <b>Portuguese</b> speaker. Professional working proficiency in <b>English</b>. Learning <b>French</b>.
 
