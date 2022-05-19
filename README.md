@@ -82,11 +82,11 @@ Here are some of the usual things I do, play and/or work with. I'm a <b>*fast le
   ----
 
  <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=guilospanck&count_private=true&theme=midnight-purple&show_icons=true" alt="guilospanck"/> 
+ <img src="https://github-readme-stats-indol-omega.vercel.app/api?username=guilospanck&count_private=true&theme=midnight-purple&show_icons=true" alt="guilospanck"/> 
  </p>
  
  <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilospanck&layout=compact&theme=midnight-purple" alt="languages" />
+ <img src="https://github-readme-stats-indol-omega.vercel.app/api/top-langs/?username=guilospanck&layout=compact&theme=midnight-purple" alt="languages" />
  </p>
  
   <p align="center">
