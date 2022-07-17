@@ -1,7 +1,7 @@
 ### Hi. I'm Guilherme Rodrigues	
 
 - ⚙️ Mechatronics Engineer by [@CEFET](https://www.cefetmg.br/home/)
-- :brazil: Living in Minas Gerais, Brazil <br>
+- 🇵🇹  Living in Lisbon, Portugal
 - 🗣️ Native <b>Portuguese</b> speaker. Professional working proficiency in <b>English</b>. Learning <b>French</b>.
 
 Here are some of the usual things I do, play and/or work with. I'm a <b>*fast learner*</b>, so I'm able to understand almost everything with proper time and study.
