@@ -1,4 +1,4 @@
-### Hi. I'm Guilherme Rodrigues	
+### Hi. I'm Guilherme Pereira
 
 - ⚙️ Mechatronics Engineer by [@CEFET](https://www.cefetmg.br/home/)
 - 🇵🇹  Living in Lisbon, Portugal
