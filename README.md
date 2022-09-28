@@ -3,6 +3,7 @@
 - ⚙️ Mechatronics Engineer by [@CEFET](https://www.cefetmg.br/home/)
 - 🇵🇹  Living in Lisbon, Portugal
 - 🗣️ Native <b>Portuguese</b> speaker. Professional working proficiency in <b>English</b>. Learning <b>French</b>.
+- Software Developer [@reaktor](https://github.com/reaktor)
 
 Here are some of the usual things I do, play and/or work with. I'm a <b>*fast learner*</b>, so I'm able to understand almost everything with proper time and study.
 > Don't ask me if I'm capable, just give me the mission.
