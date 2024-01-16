@@ -1,7 +1,7 @@
 ### Hi. I'm Guilherme Pereira
 
 - ⚙️ Mechatronics Engineer by [@CEFET](https://www.cefetmg.br/home/)
-- 🇵🇹  Living in Lisbon, Portugal
+- 🇧🇷🇵🇹 Brazilian living in Lisbon, Portugal
 - 🗣️ Native <b>Portuguese</b> speaker. Professional working proficiency in <b>English</b>. Learning <b>French</b>.
 - :computer: Software Developer [@reaktor](https://github.com/reaktor)
 
