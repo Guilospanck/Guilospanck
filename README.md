@@ -29,4 +29,4 @@ Here are some of the usual things I do, play and/or work with. I'm a <b>*fast le
  -->
 
 ## Find me elsewhere
-💻  [Medium](https://medium.com/@guilospanck)
+💻 [Personal Website](https://guilospanck.github.io/me/)
