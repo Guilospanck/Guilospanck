@@ -3,8 +3,6 @@
 I am a software developer with a background in Mechatronics Engineering. I am interested in all things tech, but mostly those that can provide sovereignty to the users.
 My day to day job is as a Software Developer [@reaktor](https://github.com/reaktor).
 
-Outside of my daily job, I dedicate my free time to work on/study things related to the BTC ecosystem, in hope that we can all become a better society.
-
 <!--
 - ⚙️ Mechatronics Engineer by [@CEFET](https://www.cefetmg.br/home/)
 - 🇧🇷🇵🇹 Brazilian living in Lisbon, Portugal
