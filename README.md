@@ -36,3 +36,4 @@ Here are some of the usual things I do, play and/or work with. I'm a <b>*fast le
 ## More info
 💻 [Personal website](https://guilospanck.github.io/me/)
 📕 [Some notes](https://guilospanck.github.io/notes/)
+📓 [Medium](https://medium.com/@guilospanck)
